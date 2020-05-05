@@ -1,0 +1,6 @@
+This is a minesweeper app.
+There are two variants the GUI variant (Minesweeper.py) and a console variant of minesweeper(minesweeper_console.py)
+in the GUI variant you can change the size of the field as well as the number of bombs when you click options.
+
+Prerequisites for the GUI variant:
+PyQt5
